@@ -9,10 +9,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.net.MalformedURLException;
 import java.net.URL;
-/*Написать тест для стандартного прилоджения калькулятора на любом телефоне с ОС Android
-(тест проверяет нажатие цифровых клавиш и клавиш с арифметическими действиями, а также
-делается по одной проверки на каждое арифметическое действие).
- */
+
 public class CalculatorTest {
     private AndroidDriver driver;
     @Before
